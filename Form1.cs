@@ -17,5 +17,9 @@ namespace CSV_XL_export
             InitializeComponent();
         }
 
-    }
+		private void button1_Click(object sender, EventArgs e)
+		{
+
+		}
+	}
 }
