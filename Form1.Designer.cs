@@ -107,6 +107,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtBoxUserName);
             this.Controls.Add(this.button1);
+            this.ForeColor = System.Drawing.Color.CornflowerBlue;
             this.Name = "Form1";
             this.Text = "SQL to CSV/Excel | 2020-08-07";
             this.ResumeLayout(false);

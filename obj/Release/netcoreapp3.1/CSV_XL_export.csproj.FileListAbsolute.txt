@@ -1,0 +1,15 @@
+C:\C_Sharp_Work\CSV_XL_export\bin\Release\netcoreapp3.1\CSV_XL_export.exe
+C:\C_Sharp_Work\CSV_XL_export\bin\Release\netcoreapp3.1\CSV_XL_export.deps.json
+C:\C_Sharp_Work\CSV_XL_export\bin\Release\netcoreapp3.1\CSV_XL_export.runtimeconfig.json
+C:\C_Sharp_Work\CSV_XL_export\bin\Release\netcoreapp3.1\CSV_XL_export.runtimeconfig.dev.json
+C:\C_Sharp_Work\CSV_XL_export\bin\Release\netcoreapp3.1\CSV_XL_export.dll
+C:\C_Sharp_Work\CSV_XL_export\bin\Release\netcoreapp3.1\CSV_XL_export.pdb
+C:\C_Sharp_Work\CSV_XL_export\obj\Release\netcoreapp3.1\CSV_XL_export.csprojAssemblyReference.cache
+C:\C_Sharp_Work\CSV_XL_export\obj\Release\netcoreapp3.1\CSV_XL_export.Form1.resources
+C:\C_Sharp_Work\CSV_XL_export\obj\Release\netcoreapp3.1\CSV_XL_export.csproj.GenerateResource.cache
+C:\C_Sharp_Work\CSV_XL_export\obj\Release\netcoreapp3.1\CSV_XL_export.AssemblyInfoInputs.cache
+C:\C_Sharp_Work\CSV_XL_export\obj\Release\netcoreapp3.1\CSV_XL_export.AssemblyInfo.cs
+C:\C_Sharp_Work\CSV_XL_export\obj\Release\netcoreapp3.1\CSV_XL_export.csproj.CoreCompileInputs.cache
+C:\C_Sharp_Work\CSV_XL_export\obj\Release\netcoreapp3.1\CSV_XL_export.dll
+C:\C_Sharp_Work\CSV_XL_export\obj\Release\netcoreapp3.1\CSV_XL_export.pdb
+C:\C_Sharp_Work\CSV_XL_export\obj\Release\netcoreapp3.1\CSV_XL_export.genruntimeconfig.cache
